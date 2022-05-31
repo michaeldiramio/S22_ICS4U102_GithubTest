@@ -8,6 +8,7 @@ public class Main {
 		animals.add(new Cat());
 		animals.add(new Snake());
 		animals.add(new Mouse());
+    animals.add(new Giraffe());
     animals.add(new SeaOtter());
 
 
