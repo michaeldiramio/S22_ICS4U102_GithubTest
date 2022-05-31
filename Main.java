@@ -8,8 +8,10 @@ public class Main {
 		animals.add(new Cat());
 		animals.add(new Snake());
 		animals.add(new Mouse());
+		animals.add(new Armadilo());
     animals.add(new Giraffe());
     animals.add(new SeaOtter());
+
 
 
 		for(int i = 0; i < animals.size(); i++) {
