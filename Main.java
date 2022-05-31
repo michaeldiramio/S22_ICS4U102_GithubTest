@@ -7,6 +7,7 @@ public class Main {
 		animals.add(new Dog());
 		animals.add(new Cat());
 		animals.add(new Snake());
+		animals.add(new Mouse());
 
 
 		for(int i = 0; i < animals.size(); i++) {
