@@ -12,6 +12,7 @@ public class Main {
     animals.add(new Giraffe());
     animals.add(new SeaOtter());
     animals.add(new Shark());
+    animals.add(new Goat());
 
 
 		for(int i = 0; i < animals.size(); i++) {
