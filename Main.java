@@ -10,7 +10,7 @@ public class Main {
 		animals.add(new Mouse());
     animals.add(new Giraffe());
     animals.add(new SeaOtter());
-
+    animals.add(new Goat());
 
 		for(int i = 0; i < animals.size(); i++) {
 			animals.get(i).makeNoise();
