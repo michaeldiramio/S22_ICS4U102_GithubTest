@@ -11,6 +11,7 @@ public class Main {
 		animals.add(new Armadilo());
     animals.add(new Giraffe());
     animals.add(new SeaOtter());
+    animals.add(new Shark());
     animals.add(new Goat());
 
 
